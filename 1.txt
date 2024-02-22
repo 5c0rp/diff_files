@@ -1,2 +1,16 @@
-1. this is first test option
-text for test option 1
+How do we make Alarm Systems user-friendly when they seem like remnants of a bygone era?
+
+In the bustling hub of Security Operation Centers (SOCs), operators are the heart and pulse. However, many alarm systems predate most operators' existence! Don't fret; these antique-like systems can be revived and revamped to suit today’s digitally savvy workforce.
+
+🎯 Here are three lessons we've learned at evalink on making Operator-Centric Alarm Systems: 
+
+1️⃣ Embrace Intuitive User Interfaces: 
+The digital natives stepping into the SOC arena come prepared with an appetite for slick, intuitive interfaces - not clunky, outdated ones. It's time our alarm systems caught up with this new generation's expectations.
+
+2️⃣ Seamless Access to Integrations:
+To remain effective and efficient in an ever-evolving technological environment, integrations need to be easily accessible. The less hurdle is involved in accessing essential functions, the better.
+
+3️⃣ Champion Feedback Loops & Continuous Improvement:  
+Improvement springs from feedback. Operators should weigh-in on systems’ functionalities to help streamline processes and enhance operational efficiency.
+
+Are you ready to make your alarm system operator-friendly? Learn more at https://www.evalink.io/. Then, give your SOC the tune-up it deserves!
