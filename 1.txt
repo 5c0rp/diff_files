@@ -1,7 +1,6 @@
 How do we make Alarm Systems user-friendly when they seem like remnants of a bygone era?
 
 In the bustling hub of Security Operation Centers (SOCs), operators are the heart and pulse. However, many alarm management systems are older than the operator himself and hence, quite outdated. Well, those days are over; alarm management systems are not as complex as a rocket ship's control panel anymore—thanks to evalink's three golden rules of simplicity!
-
 🎯 Here are three lessons we've learned at evalink on making Operator-Centric Alarm Systems:
 
 1. Embrace Intuitive User Interfaces:
